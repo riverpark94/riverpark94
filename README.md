@@ -43,8 +43,8 @@
 - 꾸준함과 성취감을 중요시 합니다.
 - 기본기와 개발 역량을 발전시키기 위해 끊임없이 공부하고 있습니다.
 ```
- <a href="https://github.com/riverpark94/github-readme-stats">><img src=https://github-readme-stats.vercel.app/api?username=riverpark94&hide=stars&show_icons=true&theme=radical></a>&nbsp
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=riverpark94&hide=stars&show_icons=true&theme=radical)](https://github.com/riverpark94/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
