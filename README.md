@@ -34,23 +34,27 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 </p>
+
 ### :fire: Always
+
 ```sh
 - 즐거움과 흥미를 줄 수 있는 콘텐츠를 만들기 위해 최신 트렌드를 눈여겨봅니다.
 - 꾸준함과 성취감을 중요시 합니다.
 - 기본기와 개발 역량을 발전시키기 위해 끊임없이 공부하고 있습니다.
 ```
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riverpark94&hide=stars&show_icons=true&theme=radical)](https://github.com/riverpark94/github-readme-stats)
+ <a href="https://github.com/riverpark94/github-readme-stats">><img src=https://github-readme-stats.vercel.app/api?username=riverpark94&hide=stars&show_icons=true&theme=radical></a>&nbsp
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
+<p align="center"> 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=river.nameless@gmail.com)](river.nameless@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijin-park-1658a01a5/)](https://www.linkedin.com/in/mijin-park-1658a01a5/)
 [![](https://img.shields.io/badge/-Portfolio-0096D6?style=for-the-badge)](namelessRiver.github.io)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/)](https://riverpark94.github.io/)
-	
+</p>	
 
 <p align="center"> 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friverpark94&count_bg=%23BE4123&title_bg=%23584C4C&icon=&icon_color=%23DD4747&title=welcome%21&edge_flat=false">
