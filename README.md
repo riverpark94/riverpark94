@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square"></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-#4479A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-4479A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <br/>  
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"></a>&nbsp
