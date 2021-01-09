@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square"></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-4479A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <br/>  
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"></a>&nbsp
@@ -53,7 +53,7 @@
 <p align="center"> 
   <a href="mailto:river.nameless@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=river.nameless@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/mijin-park-1658a01a5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijin-park-1658a01a5/"/></a>&nbsp  
-  <a href="https://namelessRiver.github.io/"><img src="https://img.shields.io/badge/-Portfolio-0096D6?style=for-the-badge"/></a>&nbsp  
+  <a href="https://namelessRiver.github.io/"><img src="https://img.shields.io/badge/-Portfolio-0096D6?style=flat-square"/></a>&nbsp  
   <a href="https://riverpark94.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/"/></a>&nbsp  
 </p>	
 
