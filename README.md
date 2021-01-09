@@ -28,7 +28,8 @@
 - 꾸준함과 성취감을 중요시 합니다.
 - 기본기와 개발 역량을 발전시키기 위해 끊임없이 공부하고 있습니다.
 ```
-[![github stats](https://github-readme-stats.vercel.app/api?username=riverpark94&hide=stars&show_icons=true&title_color=CD2E57&icon_color=CD2E57)](https://github.com/riverpark94/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riverpark94&hide=stars&show_icons=true&theme=radical)](https://github.com/riverpark94/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :low_brightness: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=river.nameless@gmail.com)](river.nameless@gmail.com)
