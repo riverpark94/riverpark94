@@ -1,6 +1,6 @@
-# :wave: Hi there
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Mijin Pakr (River) &fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<p align="center">🇰🇷 en</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -51,10 +51,10 @@
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center"> 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=river.nameless@gmail.com)](river.nameless@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijin-park-1658a01a5/)](https://www.linkedin.com/in/mijin-park-1658a01a5/)
-[![](https://img.shields.io/badge/-Portfolio-0096D6?style=for-the-badge)](namelessRiver.github.io)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/)](https://riverpark94.github.io/)
+  <a href="mailto:river.nameless@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=river.nameless@gmail.com"/></a>
+  <a href="https://www.linkedin.com/in/mijin-park-1658a01a5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijin-park-1658a01a5/"/></a>&nbsp  
+  <a href="https://namelessRiver.github.io/"><img src="https://img.shields.io/badge/-Portfolio-0096D6?style=for-the-badge"/></a>&nbsp  
+  <a href="https://riverpark94.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/"/></a>&nbsp  
 </p>	
 
 <p align="center"> 
