@@ -32,9 +32,9 @@
 
 ### :low_brightness: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=river.nameless@gmail.com)](river.nameless@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijin-park-1658a01a5/)](https://www.linkedin.com/in/mijin-park-1658a01a5/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijin-park-1658a01a5/)](https://www.linkedin.com/in/mijin-park-1658a01a5/)
 [![](https://img.shields.io/badge/-Portfolio-0096D6?style=for-the-badge)](namelessRiver.github.io)
-[Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/)](https://riverpark94.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/)](https://riverpark94.github.io/)
 	
 
 <p align="center"> 
