@@ -8,20 +8,18 @@
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square"></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <br/>  
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-Linux-002244?style=flat-square&logo=linux&logoColor=white"></a>&nbsp
+  <br/>  
   <img src="https://img.shields.io/badge/-git-f05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=github"></a>&nbsp
   <img src="https://img.shields.io/badge/-Slack-4a154b?style=flat-square&logo=slack"></a>&nbsp
-  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion"></a>&nbsp  
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 
 ```sh
@@ -30,6 +28,8 @@
 
 <h3 align="center"> 🍒 Studying 🍒 </h3>
 <p align="center"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp  
   <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
