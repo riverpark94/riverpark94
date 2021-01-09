@@ -1,12 +1,22 @@
 # :wave: Hi there
 
+<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> Techs that I've used at least once </p>
+
 <p align="center"> 
-  <img src="https://img.shields.io/badge/-Javascript-FCC624?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbs
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-React-0088cc?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express-000000?style=flat">
-  <img src="https://img.shields.io/badge/-MySQL-1793D1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-BB0A30?style=flat&logo=amazon&logoColor=white"> <br/>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <br/>
+  
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-002244?style=flat&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/-git-f05032?style=flat&logo=git&logoColor=white">
@@ -20,7 +30,9 @@
 ```
 
 ### Studying 
-<img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat&logo=styled-components&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white"> </a>&nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
 ### :fire: Always
 ```sh
@@ -31,7 +43,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=riverpark94&hide=stars&show_icons=true&theme=radical)](https://github.com/riverpark94/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### :low_brightness: Contacts
+<br><br>
+
+<h3 align="center"> 🍒 Me 🍒 </h3>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=river.nameless@gmail.com)](river.nameless@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijin-park-1658a01a5/)](https://www.linkedin.com/in/mijin-park-1658a01a5/)
 [![](https://img.shields.io/badge/-Portfolio-0096D6?style=for-the-badge)](namelessRiver.github.io)
