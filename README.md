@@ -28,13 +28,14 @@
 평소 자바스크립트를 이용한 웹 개발에 관심이 많아 프론트엔드 공부를 시작했습니다.
 ```
 
-### Studying 
+<h3 align="center"> 🍒 Studying 🍒 </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3 align="center"> 🍒 Always 🍒 </h3>
 ### :fire: Always
 
 ```sh
