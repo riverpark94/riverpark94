@@ -28,7 +28,7 @@
 평소 자바스크립트를 이용한 웹 개발에 관심이 많아 프론트엔드 공부를 시작했습니다.
 ```
 
-<br><br>
+<br>
 
 <h3 align="center"> 👍 Studying 👍 </h3>
 <p align="center"> 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center"> 🍒 Always 🍒 </h3>
 
@@ -52,7 +52,7 @@
    <a href="https://github.com/riverpark94/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=riverpark94&hide=stars&show_icons=true&theme=radical"/></a>&nbsp 
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center"> 
