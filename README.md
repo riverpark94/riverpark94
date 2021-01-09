@@ -1,11 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MijinPark(River)&fontSize=70&animation=twinkling)
 
+<br><br>
+
 <p align="center">🇰🇷 en</p>
 
+<br><br>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
 <p align="center"> Techs that I've used at least once </p>
-
 <p align="center"> 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>&nbsp
@@ -26,7 +28,9 @@
 평소 자바스크립트를 이용한 웹 개발에 관심이 많아 프론트엔드 공부를 시작했습니다.
 ```
 
-<h3 align="center"> 🍒 Studying 🍒 </h3>
+<br><br>
+
+<h3 align="center"> 👍 Studying 👍 </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp  
@@ -35,8 +39,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 </p>
 
+<br><br>
+
 <h3 align="center"> 🍒 Always 🍒 </h3>
-### :fire: Always
 
 ```sh
 - 즐거움과 흥미를 줄 수 있는 콘텐츠를 만들기 위해 최신 트렌드를 눈여겨봅니다.
