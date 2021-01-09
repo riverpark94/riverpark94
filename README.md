@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MijinPark(River)&fontSize=70&animation=twinkling)
 
-<br>
 
 <p align="center">🇰🇷 en</p>
 
-<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
