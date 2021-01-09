@@ -10,18 +10,18 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-React-0088cc?style=flat&logo=react&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat"></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square"></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-#4479A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <br/>  
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/-Linux-002244?style=flat&logo=linux&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/-git-f05032?style=flat&logo=git&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/-github-000000?style=flat&logo=github"></a>&nbsp
-  <img src="https://img.shields.io/badge/-Slack-4a154b?style=flat&logo=slack"></a>&nbsp
-  <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Linux-002244?style=flat-square&logo=linux&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-git-f05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=github"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Slack-4a154b?style=flat-square&logo=slack"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion"></a>&nbsp
 </p>
 
 ```sh
