@@ -60,7 +60,7 @@
   <a href="mailto:river.nameless@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=river.nameless@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/mijin-park-1658a01a5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mijin-park-1658a01a5/"/></a>&nbsp  
   <a href="https://namelessRiver.github.io/"><img src="https://img.shields.io/badge/-Portfolio-0096D6?style=flat-square"/></a>&nbsp  
-  <a href="https://riverpark94.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/"/></a>&nbsp  
+  <a href="https://riverpark94.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://riverpark94.github.io/"/></a>&nbsp   <a href="https://github.com/riverpark94"><img src="https://img.shields.io/badge/-github-000000?style=flat-square&logo=github"></a>&nbsp
 </p>	
 
 <p align="center"> 
