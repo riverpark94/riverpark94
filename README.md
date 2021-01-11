@@ -34,7 +34,7 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>&nbsp  
-  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 </p>
