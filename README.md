@@ -41,7 +41,7 @@
 
 <br>
 
-<h3 align="center"> 🍒 Always 🍒 </h3>
+<h3 align="center"> 💎 Always 💎 </h3>
 
 ```sh
 - 개발은 창의적인 마음을 자유롭게하고, 끊임없는 자기 성장에 대한 열망을 충족시킵니다.
